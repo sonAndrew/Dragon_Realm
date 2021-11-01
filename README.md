@@ -1,6 +1,6 @@
 ## Dragon Realm
 
-## About
+### About
 <p>This is a short terminal game to help me practice and improve my Python skills.</p>
 
 #### Discription of Game
