@@ -26,8 +26,10 @@ def checkCave(chosenCave):
     print()
     time.sleep(2)
 
+    # Randomize the friendly cave
     friendlyCave = random.randint(1, 2)
-
+    
+    # Tells you if the dragon if friendly or eats you
     if chosenCave == str(friendlyCave):
         print('Gives you his treasure!')
     else:
